@@ -24,3 +24,7 @@
 图像制作需要可用的 AI 图像编辑工具；代码后期依赖 Python 3、Pillow 和 NumPy，详见解压后的 `SKILL.md` 与 `scripts/requirements.txt`。
 
 参考照片按用户提供的风格素材保留，品牌名称用于创作方向，不代表官方色彩标定。未额外授予第三方图片的再分发许可。
+
+## 开源许可
+
+原创 Skill 文本与代码采用 [MIT License](LICENSE)，包括压缩包内对应文件。参考照片与相机素材不在 MIT 授权范围内，详见 [第三方素材说明](THIRD_PARTY_NOTICES.md)。
